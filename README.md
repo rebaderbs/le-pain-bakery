@@ -19,8 +19,8 @@ Process:
 - [x] Outline the user flow
 - [x] Create storyboards: Big Picture and Close-up
 - [x] Create paper wireframes
-- [ ] Create digital wireframes using Figma <-------in process!
-- [ ] Build a low-fidelity prototype
+- [x] Create digital wireframes using Figma
+- [ ] Build a low-fidelity prototype <-------in process!
 - [ ] Create a presentation for project research
 - [ ] Create mockups
 - [ ] Apply visual design principles to mockups
