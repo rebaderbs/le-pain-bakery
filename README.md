@@ -3,7 +3,8 @@
 
 ## Portfolio Project: 
 *(required to choose a random prompt via Sharpen)*
-### Design a menu & ordering app for your favorite bakery.  
+### Design a menu & ordering app for your favorite bakery. 
+Link to [Low-Fidelity Prototype](https://www.figma.com/proto/99Y631GT8ZoZdbB85gILgB/Untitled?node-id=26-50&scaling=min-zoom&page-id=21%3A516&starting-point-node-id=26%3A50) created with Figma (user able to demo)
 
 Process:
 - [x] Choose prompt
@@ -20,8 +21,8 @@ Process:
 - [x] Create storyboards: Big Picture and Close-up
 - [x] Create paper wireframes
 - [x] Create digital wireframes using Figma
-- [ ] Build a low-fidelity prototype <-------in process!
-- [ ] Create a presentation for project research
+- [x] Build a low-fidelity prototype
+- [ ] Create a presentation for project research <-------in process!
 - [ ] Create mockups
 - [ ] Apply visual design principles to mockups
 - [ ] Create a sticker sheet
