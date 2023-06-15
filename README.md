@@ -6,6 +6,8 @@
 ### Design a menu & ordering app for your favorite bakery. 
 Link to [Low-Fidelity Prototype](https://www.figma.com/proto/99Y631GT8ZoZdbB85gILgB/Untitled?type=design&node-id=216-679&scaling=min-zoom&page-id=216%3A557&starting-point-node-id=216%3A679) created with Figma (user able to demo)
 
+Link to [High-Fidelity Prototype]([https://www.figma.com/proto/99Y631GT8ZoZdbB85gILgB/Untitled?type=design&node-id=216-679&scaling=min-zoom&page-id=216%3A557&starting-point-node-id=216%3A679](https://www.figma.com/proto/99Y631GT8ZoZdbB85gILgB/Untitled?type=design&node-id=258-305&scaling=scale-down&page-id=258%3A290&starting-point-node-id=258%3A305)) created with Figma (user able to demo)
+
 Process:
 - [x] Choose prompt
 - [x] Define research goals and questions
@@ -23,8 +25,8 @@ Process:
 - [x] Create digital wireframes using Figma
 - [x] Build a low-fidelity prototype
 - [x] Create a presentation for project research
-- [ ] Create mockups <-------in process!
-- [ ] Apply visual design principles to mockups
+- [x] Create mockups
+- [ ] Apply visual design principles to mockups <-------in process!
 - [ ] Create a sticker sheet
 - [ ] Create a high-fidelity prototype
 - [ ] Create a case study
