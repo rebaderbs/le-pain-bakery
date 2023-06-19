@@ -1,5 +1,5 @@
 # Google UX Design Professional Certificate
-(that will eventually hold code!)
+Complete end-to-end portfolio project completed as required for course completion. My next steps will be to build a physical application so that I show my skills in not only UX/UI design, but also web development. 
 
 ## Portfolio Project: 
 *(required to choose a random prompt via Sharpen)*
@@ -29,5 +29,5 @@ Process:
 - [x] Apply visual design principles to mockups
 - [x] Create a sticker sheet
 - [x] Create a high-fidelity prototype
-- [ ] Create a case study <-------in process!
-- [ ] CODE!!! (not part of course, this is something I'd do independently)
+- [x] Create a case study
+- [ ] CODE!!! (not part of course, this is something I'd do independently) <-------in process!
