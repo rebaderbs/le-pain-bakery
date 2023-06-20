@@ -1,7 +1,8 @@
 # Google UX Design Professional Certificate
-Complete end-to-end portfolio project completed as required for course completion. My next steps will be to build a physical application so that I show my skills in not only UX/UI design, but also web development. 
+## Courses 1 - 5 of the certificate
+Complete end-to-end portfolio project as required for course completion. My next steps will be to build a physical application so that I show my skills in not only UX/UI design, but also web development. 
 
-## Portfolio Project: 
+## Portfolio Project #1: 
 *(required to choose a random prompt via Sharpen)*
 ### Design a menu & ordering app for your favorite bakery. 
 Link to [Low-Fidelity Prototype](https://www.figma.com/proto/99Y631GT8ZoZdbB85gILgB/Untitled?type=design&node-id=299-1070&scaling=scale-down&page-id=258%3A290&starting-point-node-id=299%3A1070) created with Figma (user able to demo)
